@@ -60,6 +60,7 @@ nav img{
     text-align: center;
     font-size: 60px;
 }
+
 .button{
     display: inline-block;
     text-decoration: none;
@@ -109,20 +110,30 @@ nav.fas{
     width: 80%;
     margin: auto;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 50px;
 }
-h1{
+.ABOUT h1{
     font-size: 50px;
     color: rgb(0, 0, 0);
-    font-weight: 300;
+    font-weight: 400;
     line-height: 22px;
     padding: 10px;
+}
+.ABOUT p{
+    font-size: 20;
 }
 .OurWork{
     width: 80%;
     margin: auto;
     text-align: center;
     padding-top: 50px;
+}
+.OurWork h1{
+    font-size: 50;
+    color: rgb(0, 0, 0);
+    font-weight: 400;
+    line-height: 22px;
+    padding: 10px;
 }
 .OurWork p{
     font-size: 20;
